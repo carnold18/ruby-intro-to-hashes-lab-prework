@@ -12,6 +12,7 @@ def monopoly
 	    pieces: = 4
 	    names: = {}
 	    rent_in_dollars: = {
+	      one_piece_owned: 25
 	      
 	    }
 	  }
